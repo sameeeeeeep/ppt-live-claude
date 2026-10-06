@@ -1,0 +1,14 @@
+{
+  "name": "ppt-live",
+  "owner": { "name": "ppt.live", "url": "https://www.ppt.live" },
+  "description": "ppt.live for Claude — build live, interactive shows (polls, quizzes, word clouds, Q&A) or make your own deck live.",
+  "plugins": [
+    {
+      "name": "ppt-live",
+      "source": "./plugins/ppt-live",
+      "description": "The ppt.live connector (sign in with ppt.live) + the ppt-live skill: turn any talk, pitch or class into a show the room plays along with on their phones.",
+      "homepage": "https://www.ppt.live",
+      "category": "productivity"
+    }
+  ]
+}

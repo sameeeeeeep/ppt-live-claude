@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "ppt": { "type": "http", "url": "https://www.ppt.live/mcp" }
+  }
+}

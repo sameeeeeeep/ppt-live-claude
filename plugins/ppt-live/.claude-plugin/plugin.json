@@ -1,0 +1,9 @@
+{
+  "name": "ppt-live",
+  "displayName": "ppt.live",
+  "version": "1.0.0",
+  "description": "Turn any talk, pitch or class into a live show: Claude builds it on ppt.live with polls, quizzes, word clouds and Q&A the room answers on their phones — or makes your own deck live.",
+  "author": { "name": "ppt.live", "url": "https://www.ppt.live" },
+  "homepage": "https://www.ppt.live",
+  "keywords": ["presentation", "slides", "polls", "quiz", "audience", "live"]
+}
